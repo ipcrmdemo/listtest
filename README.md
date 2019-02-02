@@ -6,7 +6,7 @@ Modified original source by mjhea0: https://github.com/mjhea0/typescript-node-ap
 asdf
 ## Setupsdf
 
-`npm install`sdf
+`npm install`sdfadf
 sdaf
 ## Build
 ksdf
