@@ -9,7 +9,7 @@ RUN npm install --only=production
 
 # Bundle app source
 RUN mkdir dist
-COPY dist/. dist/.
+COPY . dist/.
 
 # Configure
 EXPOSE 3000
