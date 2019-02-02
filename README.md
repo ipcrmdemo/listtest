@@ -3,15 +3,15 @@
 my new project
 
 Modified original source by mjhea0: https://github.com/mjhea0/typescript-node-api
+asdf
+## Setupsdf
 
-## Setup
-
-`npm install`sdf
-
+`npm install`sdfadf
+sdafasdfadsf
 ## Build
-k
-`npm run build`f
-
-## Start
+ksdf
+`npm run build`fsdfasdfsaf
+sdfadf
+## Startkljl
 
 `npm run start`
